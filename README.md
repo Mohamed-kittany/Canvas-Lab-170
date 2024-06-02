@@ -13,3 +13,5 @@ In this lab, you will gain hands-on experience with the AWS Command Line Interfa
 4. **Creating a batch file**: This file will be used to update the static website whenever you change any of the website files locally. It automates the process of pushing updates to the S3 bucket, ensuring that the latest version of your website is always available to visitors.
 
 This lab provides a practical application of AWS services to deploy and manage a static website hosted on Amazon S3.
+
+![image3](https://github.com/Mohamed-kittany/Canvas-Lab-170/assets/161580792/f885fc2d-addb-4091-8bdc-7e01c3b8bfd2)
